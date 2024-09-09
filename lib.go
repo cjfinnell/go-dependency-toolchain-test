@@ -1,0 +1,3 @@
+package toolchaintestlib
+
+func Noop() {}
